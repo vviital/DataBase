@@ -1,0 +1,36 @@
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.dll.config
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.pdb
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.xml
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.csprojResolveAssemblyReference.cache
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.pdb
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.csprojResolveAssemblyReference.cache
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.dll.config
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.pdb
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.xml
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.pdb
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.dll.config
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Data.pdb
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.xml
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.csprojResolveAssemblyReference.cache
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Data\obj\Debug\Zaneuski.Casino.Data.pdb

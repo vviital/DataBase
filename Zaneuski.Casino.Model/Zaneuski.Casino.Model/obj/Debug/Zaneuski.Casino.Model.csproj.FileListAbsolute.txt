@@ -1,0 +1,14 @@
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\bin\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\bin\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.csprojResolveAssemblyReference.cache
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование\GitHub\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\bin\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\bin\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование универ\OSiSP\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Model\bin\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Model\bin\Debug\Zaneuski.Casino.Model.pdb
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.csprojResolveAssemblyReference.cache
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.dll
+D:\Программирование универ\Базы данных проект\Zaneuski.Casino.Model\Zaneuski.Casino.Model\obj\Debug\Zaneuski.Casino.Model.pdb
